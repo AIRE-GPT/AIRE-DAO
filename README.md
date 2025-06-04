@@ -15,4 +15,4 @@ To coordinate a decentralized movement around AI, Blockchain, and Digital Sovere
 
 - Snapshot: [AIRE gpt DAO Space](https://snapshot.org/#/your-link)
 - Gitcoin: coming soon
-- Twitter: coming soon
+- Twitter: @airegpt
